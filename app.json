@@ -1,0 +1,45 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/fl/fl",
+    "pages/my/my",
+    "pages/ser/ser"
+  ],
+  "window": {
+    "backgroundTextStyle": "white",
+    "navigationBarBackgroundColor": "#F91B27",
+    "navigationBarTitleText": "优优久",
+    "navigationBarTextStyle": "black",
+    "font-size":"36rpx"
+  },
+  "tabBar": {
+    "selectedColor": "#0f0",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "首页",
+        "iconPath": "/pics/home_normal.png",
+        "selectedIconPath": "/pics/home_press.png"
+      },
+      {
+        "pagePath": "pages/fl/fl",
+        "text": "分类",
+        "iconPath": "/pics/fl_normal.png",
+        "selectedIconPath": "/pics/fl_press.png"
+      },
+      {
+        "pagePath": "pages/ser/ser",
+          "text": "服务",
+          "iconPath": "/pics/ser_normal.png",
+          "selectedIconPath": "/pics/ser_press.png"
+      },
+      {
+        "pagePath": "pages/my/my",
+        "text": "我的",
+        "iconPath": "/pics/list_normal.png",
+        "selectedIconPath": "/pics/list_press.png"
+      }
+    ]
+  }
+}

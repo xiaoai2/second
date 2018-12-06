@@ -1,0 +1,23 @@
+
+<view class="search">  
+  <view class="search_arr">  
+    <input class="" disabled placeholder="大家都在搜" value="{{searchValue}}"/> 
+  </view>  
+</view>  
+<view class='fl'>
+  <view class='daohan'>
+    <view class='daohan_desc'>灭火器</view>
+    <view class='daohan_desc'>消防面罩</view>
+    <view class='daohan_desc'>灭火器</view>
+    <view class='daohan_desc'>消防面罩</view>
+    <view class='daohan_desc'>灭火器</view>
+    <view class='daohan_desc'>消防面罩</view>
+  </view>
+  <view class='biao'> 
+    <view class='biao1'  wx:for="{{my1}}">
+      <image class='biao_pic' src='{{item.logo}}'></image>
+      <view class='biao_desc'>{{item.desc}}</view>
+      <view class='biao_money'>{{item.money}}</view>
+    </view>
+  </view>
+</view>

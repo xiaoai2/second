@@ -1,0 +1,7 @@
+<!--pages/my/my.wxml-->
+<view class='biao'> 
+  <view class='biao1'  wx:for="{{my1}}">
+    <image class='biao_pic' src='{{item.logo}}'></image>
+    <view class='biao_desc'>{{item.desc}}</view>
+  </view>
+</view>

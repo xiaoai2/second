@@ -1,0 +1,14 @@
+.biao{
+  display: flex;
+  justify-content: row;
+  align-items: center;
+  flex-wrap:wrap;
+  width: 750rpx
+}
+.biao1{
+  width: 375rpx;
+}
+.biao_pic{
+  width: 375rpx;
+  height: 300rpx
+}

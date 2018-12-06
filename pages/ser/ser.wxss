@@ -1,0 +1,37 @@
+/* pages/ser/ser.wxss */
+.ser{
+  width: 750rpx;
+}
+.ser01{
+  width: 750rpx;
+  height: 500rpx
+}
+.ser01_logo{
+  width: 750rpx;
+  height: 350rpx
+}
+.ser01_desc{
+  margin: 33rpx 30rpx;
+  width: 690rpx;
+  height: 84rpx;
+  color:#222020;
+  line-height: 42rpx;
+  font-size:30rpx
+}
+.ser02{
+  margin-top: 20rpx;
+  width: 750rpx;
+  height: 500rpx
+}
+.ser02_logo{
+  width: 750rpx;
+  height: 350rpx
+}
+.ser02_desc{
+  margin: 33rpx 30rpx;
+  width: 690rpx;
+  height: 84rpx;
+  color:#222020;
+  line-height: 42rpx;
+  font-size:30rpx
+}

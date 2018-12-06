@@ -1,0 +1,64 @@
+<!--index.wxml-->
+<view class="index">
+  <image class="index01"  src='/pics/index01.png'></image>
+  <view class="index02">
+    <image class="index02_logo"  src='/pics/index02.png'></image>
+    <view class="index02_desc">
+      <view class='index02_desc1'>2018-06-12</view>
+      <view class='index02_desc2'>IT设备租赁已成为新常态</view>
+      <view class='index02_desc3'>2018-06-12</view>
+      <view class='index02_desc4'>家用灭火器和商用有何区别？</view>
+    </view>
+    <view style="clear:both; height:0; "></view>
+  </view>
+  <view class="index03">
+    <view class='index03_1'>
+      <view class='index03_1desc'>商用消防设备</view>
+      <view class='index03_1lo'><image class='index03_1logo' src='/pics/index03_1logo.png'></image></view>
+    </view>
+    <view class='index03_2'>
+      <view class='index03_2desc'>家用/车载消防设备</view>
+      <view class='index03_2lo'>
+        <image class='index03_2logo' src='/pics/index03_2logo.png'></image>
+      </view>
+    </view>
+    <view style="clear:both; height:0; "></view>
+  </view>
+  <view class='index04'>
+     <view class='index04_1'>
+      <view class='index04_1desc'>资讯专区</view>
+      <view class='index04_1lo'>
+        <image class='index04_1logo' src='/pics/index04_1.png'></image>
+      </view>
+    </view>
+     <view class='index04_2'>
+      <view class='index04_2desc'>定制服务</view>
+      <view class='index04_2lo'>
+        <image class='index04_2logo' src='/pics/index04_2.png'></image>
+      </view>
+    </view>
+     <view class='index04_3'>
+      <view class='index04_3desc'>我的奖励</view>
+      <view class='index04_3lo'>
+        <image class='index04_3logo' src='/pics/index04_3.png'></image>
+      </view>
+    </view>
+    <view style="clear:both; height:0; "></view>
+  </view>
+  <view class="index05">
+    <view class='index05desc'>热租推荐</view>
+    <view style="clear:both; height:0; "></view>
+  </view>
+  <view class='index06'>
+   <view class='index06_1'>
+      <view class='index06_1lo'><image class='index06_1logo' src='/pics/index06.png'></image></view>
+      <view class='index06_1desc'>淮海4kg公斤干粉灭火器
+商用手提式</view>
+   </view>
+   <view class='index06_2'>
+      <view class='index06_2lo'><image class='index06_2logo' src='/pics/index06.png'></image></view>
+      <view class='index06_2desc'>火焰战士车载灭火器汽车
+车用灭火筒</view>
+    </view>
+  </view>
+</view>
